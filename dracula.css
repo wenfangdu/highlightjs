@@ -76,6 +76,10 @@
   color: #bd93f9;
 }
 
+.hljs-params {
+  color: #ffb86c;
+}
+
 .hljs-emphasis {
   font-style: italic;
 }
